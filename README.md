@@ -1,6 +1,6 @@
 ### EX8 Web Scraping On E-commerce platform using BeautifulSoup
-### Name: E Hemachandran
-### Reg. No: 212224230093
+### Name: RAGAVAN M
+### Reg. No: 212224230216
 ### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.
 ### Description: 
 <div align = "justify">
